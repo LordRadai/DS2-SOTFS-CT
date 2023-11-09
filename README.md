@@ -22,4 +22,4 @@ The "old guard", those that contributed to the oldest table versions on Aatvark 
 The people on my Discord:
 * EvanDeadlySins for param definitions
 * Relinquished001 for Delete all Hotkeys, List All Hotkeys, Give Item Array and All Items Discardable
-* Boblord for Ivory Gauntlet skip
+* Boblord for Ivory Gauntlet skip and his own version of my table
