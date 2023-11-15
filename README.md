@@ -1,5 +1,6 @@
 # Dark Souls II Scholar of the First Sin Cheat Engine table
 This is an update from the original DS2 CT made by Aatvark https://gist.github.com/Atvaark/f308e1d8e00e07106452
+Fork of this table made by Boblord: https://github.com/boblord14/Dark-Souls-2-SotFS-CT-Bob-Edition
 
 I host this table in my Discord server, where we also discuss DS2 modding in general:
 https://discord.gg/mBf9mT2
